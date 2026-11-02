@@ -1,2 +1,0 @@
-# jason
-untuk fitur.json
